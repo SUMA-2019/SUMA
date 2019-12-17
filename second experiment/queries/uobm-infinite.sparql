@@ -1,0 +1,60 @@
+^[Q1,n=2]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX benchmark: <http://semantics.crl.ibm.com/univ-bench-dl.owl#>
+SELECT ?x 
+WHERE {
+ ?x rdf:type benchmark:GoodStudent .
+ ?x benchmark:isAdvisedBy ?y .
+ ?y benchmark:isAdvisedBy ?z .
+ ?z rdf:type benchmark:Person .
+}
+
+^[Q2,n=3]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX benchmark: <http://semantics.crl.ibm.com/univ-bench-dl.owl#>
+SELECT ?x 
+WHERE {
+ ?x rdf:type benchmark:GoodStudent .
+ ?x benchmark:isAdvisedBy ?y .
+ ?y benchmark:isAdvisedBy ?z .
+ ?z benchmark:isAdvisedBy ?w .
+ ?w rdf:type benchmark:Person .
+}
+
+^[Q3,n=4]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX benchmark: <http://semantics.crl.ibm.com/univ-bench-dl.owl#>
+SELECT ?x 
+WHERE {
+ ?x rdf:type benchmark:GoodStudent .
+ ?x benchmark:isAdvisedBy ?y .
+ ?y benchmark:isAdvisedBy ?z .
+ ?z benchmark:isAdvisedBy ?w .
+ ?w benchmark:isAdvisedBy ?p .
+ ?p rdf:type benchmark:Person .
+}
+
+^[Q4,cyclic-query-zero]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX benchmark: <http://semantics.crl.ibm.com/univ-bench-dl.owl#>
+SELECT ?x 
+WHERE {
+ ?x rdf:type benchmark:GoodStudent .
+ ?x benchmark:isAdvisedBy ?y .
+ ?y benchmark:isAdvisedBy ?z .
+ ?z benchmark:isAdvisedBy ?w .
+ ?w benchmark:isAdvisedBy ?y .
+}
+
+^[Q5,cyclic-query]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX benchmark: <http://semantics.crl.ibm.com/univ-bench-dl.owl#>
+SELECT ?x ?y
+WHERE {
+ ?y rdf:type benchmark:University .
+ ?z benchmark:subOrganizationOf ?y .
+ ?z rdf:type benchmark:Department .
+ ?x benchmark:hasUndergraduateDegreeFrom ?y .
+ ?x rdf:type benchmark:GraduateStudent .
+ ?x benchmark:isMemberOf ?z
+}
