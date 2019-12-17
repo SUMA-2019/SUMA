@@ -4,9 +4,9 @@ SUMA is a partial materialization-based system for scalable query answering in O
 ## Using SUMA
 Command is of the following form :
 
-java -jar SUMA.jar  ONTOLOGY_PATH DATA_PATH NEW_DATA_PATH false
+java -jar SUMA.jar  ONTOLOGY_PATH DATA_PATH NEW_DATA_PATH
 
-For example:  java -jar SUMA.jar  uobm.owl uobm1.nt uobm1_new.nt false
+For example:  java -jar SUMA.jar uobm.owl uobm1.nt uobm1_new.nt
 
 ## Links:
 PAGOdA: http://www.cs.ox.ac.uk/isg/tools/PAGOdA/
