@@ -1,0 +1,7924 @@
+^[Query1]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Adventure>
+}
+
+^[Query2]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Asteroid>
+}
+
+^[Query3]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Priest>
+}
+
+^[Query4]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/WebPage>
+}
+
+^[Query5]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CelestialBody>
+}
+
+^[Query6]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Olympics>
+}
+
+^[Query7]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Contact>
+}
+
+^[Query8]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>
+}
+
+^[Query9]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Restaurant>
+}
+
+^[Query10]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Senator>
+}
+
+^[Query11]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Relaxation>
+}
+
+^[Query12]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerLeague>
+}
+
+^[Query13]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Decoration>
+}
+
+^[Query14]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Broadcaster>
+}
+
+^[Query15]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/NationalSoccerClub>
+}
+
+^[Query16]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Model>
+}
+
+^[Query17]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete>
+}
+
+^[Query18]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/NascarDriver>
+}
+
+^[Query19]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/City>
+}
+
+^[Query20]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SambaSchool>
+}
+
+^[Query21]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Artwork>
+}
+
+^[Query22]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Nerve>
+}
+
+^[Query23]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Musical>
+}
+
+^[Query24]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SportsTeamSeason>
+}
+
+^[Query25]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cricketer>
+}
+
+^[Query26]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Criminal>
+}
+
+^[Query27]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Theatre>
+}
+
+^[Query28]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Celebrity>
+}
+
+^[Query29]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Campground>
+}
+
+^[Query30]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/MusicRecording>
+}
+
+^[Query31]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Farmland>
+}
+
+^[Query32]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BaseballTeam>
+}
+
+^[Query33]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Surname>
+}
+
+^[Query34]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Destination>
+}
+
+^[Query35]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GivenName>
+}
+
+^[Query36]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Saint>
+}
+
+^[Query37]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Book>
+}
+
+^[Query38]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Non-ProfitOrganisation>
+}
+
+^[Query39]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Album>
+}
+
+^[Query40]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Species>
+}
+
+^[Query41]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Drug>
+}
+
+^[Query42]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RecordLabel>
+}
+
+^[Query43]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VicePresident>
+}
+
+^[Query44]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Museum>
+}
+
+^[Query45]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MixedMartialArtsLeague>
+}
+
+^[Query46]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AustralianRulesFootballPlayer>
+}
+
+^[Query47]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HistoricBuilding>
+}
+
+^[Query48]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PoloLeague>
+}
+
+^[Query49]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Election>
+}
+
+^[Query50]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Arena>
+}
+
+^[Query51]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RadioStation>
+}
+
+^[Query52]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Event>
+}
+
+^[Query53]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/TVEpisode>
+}
+
+^[Query54]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ReligiousBuilding>
+}
+
+^[Query55]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Sunbathing>
+}
+
+^[Query56]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Product>
+}
+
+^[Query57]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GovernmentAgency>
+}
+
+^[Query58]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Event>
+}
+
+^[Query59]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Lymph>
+}
+
+^[Query60]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/LacrosseLeague>
+}
+
+^[Query61]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Activity>
+}
+
+^[Query62]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Safari>
+}
+
+^[Query63]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TennisPlayer>
+}
+
+^[Query64]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChristianBishop>
+}
+
+^[Query65]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Company>
+}
+
+^[Query66]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChristianPatriarch>
+}
+
+^[Query67]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Mountain>
+}
+
+^[Query68]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BodyOfWater>
+}
+
+^[Query69]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BasketballLeague>
+}
+
+^[Query70]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Road>
+}
+
+^[Query71]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/OrganisationMember>
+}
+
+^[Query72]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MusicalArtist>
+}
+
+^[Query73]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Judge>
+}
+
+^[Query74]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/MusicAlbum>
+}
+
+^[Query75]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/StadiumOrArena>
+}
+
+^[Query76]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TelevisionSeason>
+}
+
+^[Query77]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VoiceActor>
+}
+
+^[Query78]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WrittenWork>
+}
+
+^[Query79]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Instrument>
+}
+
+^[Query80]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Single>
+}
+
+^[Query81]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Locomotive>
+}
+
+^[Query82]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Biomolecule>
+}
+
+^[Query83]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GreenAlga>
+}
+
+^[Query84]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/EthnicGroup>
+}
+
+^[Query85]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Settlement>
+}
+
+^[Query86]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Unknown>
+}
+
+^[Query87]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/InlineHockeyLeague>
+}
+
+^[Query88]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#City>
+}
+
+^[Query89]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GridironFootballPlayer>
+}
+
+^[Query90]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TennisLeague>
+}
+
+^[Query91]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Legislature>
+}
+
+^[Query92]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CollegeCoach>
+}
+
+^[Query93]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HumanGene>
+}
+
+^[Query94]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Accommodation>
+}
+
+^[Query95]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TelevisionStation>
+}
+
+^[Query96]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ComicsCreator>
+}
+
+^[Query97]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Place>
+}
+
+^[Query98]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Brain>
+}
+
+^[Query99]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Archaea>
+}
+
+^[Query100]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/LaunchPad>
+}
+
+^[Query101]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/YearInSpaceflight>
+}
+
+^[Query102]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Convention>
+}
+
+^[Query103]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BaseballPlayer>
+}
+
+^[Query104]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Stadium>
+}
+
+^[Query105]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PolishKing>
+}
+
+^[Query106]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/AdministrativeArea>
+}
+
+^[Query107]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Game>
+}
+
+^[Query108]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SiteOfSpecialScientificInterest>
+}
+
+^[Query109]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/CreativeWork>
+}
+
+^[Query110]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Monument>
+}
+
+^[Query111]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Language>
+}
+
+^[Query112]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SupremeCourtOfTheUnitedStatesCase>
+}
+
+^[Query113]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Movie>
+}
+
+^[Query114]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Valley>
+}
+
+^[Query115]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MilitaryConflict>
+}
+
+^[Query116]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Beverage>
+}
+
+^[Query117]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ComicsCharacter>
+}
+
+^[Query118]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AdministrativeRegion>
+}
+
+^[Query119]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GrandPrix>
+}
+
+^[Query120]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoftballLeague>
+}
+
+^[Query121]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GolfLeague>
+}
+
+^[Query122]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Atoll>
+}
+
+^[Query123]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ResearchProject>
+}
+
+^[Query124]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Village>
+}
+
+^[Query125]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Reptile>
+}
+
+^[Query126]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Town>
+}
+
+^[Query127]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MemberOfParliament>
+}
+
+^[Query128]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cardinal>
+}
+
+^[Query129]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Hotel>
+}
+
+^[Query130]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VideogamesLeague>
+}
+
+^[Query131]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/SkiResort>
+}
+
+^[Query132]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/EurovisionSongContestEntry>
+}
+
+^[Query133]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SportsTeam>
+}
+
+^[Query134]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Person>
+}
+
+^[Query135]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Mineral>
+}
+
+^[Query136]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Painting>
+}
+
+^[Query137]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GaelicGamesPlayer>
+}
+
+^[Query138]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Airport>
+}
+
+^[Query139]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ComicBook>
+}
+
+^[Query140]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Activity>
+}
+
+^[Query141]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Software>
+}
+
+^[Query142]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#BedAndBreakfast>
+}
+
+^[Query143]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SportsTeamMember>
+}
+
+^[Query144]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Capital>
+}
+
+^[Query145]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MartialArtist>
+}
+
+^[Query146]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PokerPlayer>
+}
+
+^[Query147]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Boxer>
+}
+
+^[Query148]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SpaceShuttle>
+}
+
+^[Query149]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Monarch>
+}
+
+^[Query150]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Tunnel>
+}
+
+^[Query151]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Insect>
+}
+
+^[Query152]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CricketLeague>
+}
+
+^[Query153]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/CollegeOrUniversity>
+}
+
+^[Query154]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PrimeMinister>
+}
+
+^[Query155]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/University>
+}
+
+^[Query156]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Beach>
+}
+
+^[Query157]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Award>
+}
+
+^[Query158]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SkiArea>
+}
+
+^[Query159]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/College>
+}
+
+^[Query160]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Surfing>
+}
+
+^[Query161]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Hotel>
+}
+
+^[Query162]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cyclist>
+}
+
+^[Query163]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/SportsTeam>
+}
+
+^[Query164]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://xmlns.com/foaf/0.1/Person>
+}
+
+^[Query165]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Arachnid>
+}
+
+^[Query166]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Holiday>
+}
+
+^[Query167]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TelevisionEpisode>
+}
+
+^[Query168]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CanadianFootballLeague>
+}
+
+^[Query169]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Country>
+}
+
+^[Query170]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Website>
+}
+
+^[Query171]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/River>
+}
+
+^[Query172]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PowerStation>
+}
+
+^[Query173]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Work>
+}
+
+^[Query174]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FictionalCharacter>
+}
+
+^[Query175]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Park>
+}
+
+^[Query176]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AmericanFootballLeague>
+}
+
+^[Query177]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Food>
+}
+
+^[Query178]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MixedMartialArtsEvent>
+}
+
+^[Query179]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Deputy>
+}
+
+^[Query180]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/RiverBodyOfWater>
+}
+
+^[Query181]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SportsLeague>
+}
+
+^[Query182]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BadmintonPlayer>
+}
+
+^[Query183]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SportsEvent>
+}
+
+^[Query184]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/ShoppingCenter>
+}
+
+^[Query185]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/LakeBodyOfWater>
+}
+
+^[Query186]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Airport>
+}
+
+^[Query187]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CyclingLeague>
+}
+
+^[Query188]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Festival>
+}
+
+^[Query189]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Church>
+}
+
+^[Query190]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Planet>
+}
+
+^[Query191]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AcademicJournal>
+}
+
+^[Query192]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Eukaryote>
+}
+
+^[Query193]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Lighthouse>
+}
+
+^[Query194]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Hiking>
+}
+
+^[Query195]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WorldHeritageSite>
+}
+
+^[Query196]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GeopoliticalOrganisation>
+}
+
+^[Query197]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Swimmer>
+}
+
+^[Query198]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FilmFestival>
+}
+
+^[Query199]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PoliticalParty>
+}
+
+^[Query200]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerPlayer>
+}
+
+^[Query201]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VicePrimeMinister>
+}
+
+^[Query202]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HistoricPlace>
+}
+
+^[Query203]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerLeagueSeason>
+}
+
+^[Query204]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/IceHockeyLeague>
+}
+
+^[Query205]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Bacteria>
+}
+
+^[Query206]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Pope>
+}
+
+^[Query207]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cycad>
+}
+
+^[Query208]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#AccommodationRating>
+}
+
+^[Query209]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HockeyTeam>
+}
+
+^[Query210]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/OlympicResult>
+}
+
+^[Query211]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Ginkgo>
+}
+
+^[Query212]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Year>
+}
+
+^[Query213]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#LuxuryHotel>
+}
+
+^[Query214]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Place>
+}
+
+^[Query215]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Astronaut>
+}
+
+^[Query216]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WaterwayTunnel>
+}
+
+^[Query217]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Person>
+}
+
+^[Query218]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Writer>
+}
+
+^[Query219]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerClubSeason>
+}
+
+^[Query220]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Fungus>
+}
+
+^[Query221]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Mollusca>
+}
+
+^[Query222]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Flag>
+}
+
+^[Query223]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Galaxy>
+}
+
+^[Query224]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Library>
+}
+
+^[Query225]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Country>
+}
+
+^[Query226]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ProgrammingLanguage>
+}
+
+^[Query227]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Hotel>
+}
+
+^[Query228]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FootballMatch>
+}
+
+^[Query229]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://purl.org/ontology/bibo/Book>
+}
+
+^[Query230]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Bridge>
+}
+
+^[Query231]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Agent>
+}
+
+^[Query232]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChessPlayer>
+}
+
+^[Query233]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Race>
+}
+
+^[Query234]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/NaturalPlace>
+}
+
+^[Query235]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Mountain>
+}
+
+^[Query236]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Aircraft>
+}
+
+^[Query237]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Governor>
+}
+
+^[Query238]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cleric>
+}
+
+^[Query239]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AutoRacingLeague>
+}
+
+^[Query240]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Rocket>
+}
+
+^[Query241]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SnookerWorldRanking>
+}
+
+^[Query242]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RailwayLine>
+}
+
+^[Query243]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Architect>
+}
+
+^[Query244]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WrestlingEvent>
+}
+
+^[Query245]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Fern>
+}
+
+^[Query246]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ClubMoss>
+}
+
+^[Query247]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AustralianFootballLeague>
+}
+
+^[Query248]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SpaceStation>
+}
+
+^[Query249]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Crustacean>
+}
+
+^[Query250]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HumanGeneLocation>
+}
+
+^[Query251]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RadioControlledRacingLeague>
+}
+
+^[Query252]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BaseballLeague>
+}
+
+^[Query253]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/EducationalInstitution>
+}
+
+^[Query254]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Stream>
+}
+
+^[Query255]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WomensTennisAssociationTournament>
+}
+
+^[Query256]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ShoppingMall>
+}
+
+^[Query257]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#QuietDestination>
+}
+
+^[Query258]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Weapon>
+}
+
+^[Query259]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FloweringPlant>
+}
+
+^[Query260]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChemicalElement>
+}
+
+^[Query261]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Continent>
+}
+
+^[Query262]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BritishRoyalty>
+}
+
+^[Query263]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Device>
+}
+
+^[Query264]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MilitaryUnit>
+}
+
+^[Query265]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Newspaper>
+}
+
+^[Query266]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerTournament>
+}
+
+^[Query267]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Amphibian>
+}
+
+^[Query268]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MusicFestival>
+}
+
+^[Query269]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Fish>
+}
+
+^[Query270]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Congressman>
+}
+
+^[Query271]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Skyscraper>
+}
+
+^[Query272]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Station>
+}
+
+^[Query273]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/TelevisionStation>
+}
+
+^[Query274]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#BackpackersDestination>
+}
+
+^[Query275]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Scientist>
+}
+
+^[Query276]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FormulaOneRacer>
+}
+
+^[Query277]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Organisation>
+}
+
+^[Query278]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/City>
+}
+
+^[Query279]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/LunarCrater>
+}
+
+^[Query280]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MountainRange>
+}
+
+^[Query281]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PaintballLeague>
+}
+
+^[Query282]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#BunjeeJumping>
+}
+
+^[Query283]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Chancellor>
+}
+
+^[Query284]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/School>
+}
+
+^[Query285]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MouseGene>
+}
+
+^[Query286]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#RuralArea>
+}
+
+^[Query287]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Royalty>
+}
+
+^[Query288]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RoadJunction>
+}
+
+^[Query289]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Colour>
+}
+
+^[Query290]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RugbyLeague>
+}
+
+^[Query291]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Bone>
+}
+
+^[Query292]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Project>
+}
+
+^[Query293]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/LegalCase>
+}
+
+^[Query294]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Magazine>
+}
+
+^[Query295]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CurlingLeague>
+}
+
+^[Query296]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Mammal>
+}
+
+^[Query297]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FormulaOneRacing>
+}
+
+^[Query298]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Museum>
+}
+
+^[Query299]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SpaceMission>
+}
+
+^[Query300]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#NationalPark>
+}
+
+^[Query301]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Organization>
+}
+
+^[Query302]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PublicTransitSystem>
+}
+
+^[Query303]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Book>
+}
+
+^[Query304]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/President>
+}
+
+^[Query305]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Politician>
+}
+
+^[Query306]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#BudgetHotelDestination>
+}
+
+^[Query307]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Lake>
+}
+
+^[Query308]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RugbyClub>
+}
+
+^[Query309]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/SportsEvent>
+}
+
+^[Query310]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RailwayTunnel>
+}
+
+^[Query311]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MeanOfTransportation>
+}
+
+^[Query312]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BasketballTeam>
+}
+
+^[Query313]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SpeedwayTeam>
+}
+
+^[Query314]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Plant>
+}
+
+^[Query315]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Airline>
+}
+
+^[Query316]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RugbyPlayer>
+}
+
+^[Query317]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ArchitecturalStructure>
+}
+
+^[Query318]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SnookerChamp>
+}
+
+^[Query319]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PlayboyPlaymate>
+}
+
+^[Query320]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Mayor>
+}
+
+^[Query321]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MusicGenre>
+}
+
+^[Query322]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Wrestler>
+}
+
+^[Query323]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Spacecraft>
+}
+
+^[Query324]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChemicalSubstance>
+}
+
+^[Query325]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ChemicalCompound>
+}
+
+^[Query326]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TopicalConcept>
+}
+
+^[Query327]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TradeUnion>
+}
+
+^[Query328]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Letter>
+}
+
+^[Query329]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MusicalWork>
+}
+
+^[Query330]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Sports>
+}
+
+^[Query331]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AnatomicalStructure>
+}
+
+^[Query332]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VideoGame>
+}
+
+^[Query333]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Tax>
+}
+
+^[Query334]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#BudgetAccommodation>
+}
+
+^[Query335]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AmericanFootballTeam>
+}
+
+^[Query336]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#FamilyDestination>
+}
+
+^[Query337]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Yoga>
+}
+
+^[Query338]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VolleyballLeague>
+}
+
+^[Query339]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Museums>
+}
+
+^[Query340]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Sculpture>
+}
+
+^[Query341]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Cave>
+}
+
+^[Query342]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Park>
+}
+
+^[Query343]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/School>
+}
+
+^[Query344]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RoadTunnel>
+}
+
+^[Query345]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Vein>
+}
+
+^[Query346]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SnookerPlayer>
+}
+
+^[Query347]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Gene>
+}
+
+^[Query348]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Infrastructure>
+}
+
+^[Query349]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/RadioStation>
+}
+
+^[Query350]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BullFighter>
+}
+
+^[Query351]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/WineRegion>
+}
+
+^[Query352]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Sport>
+}
+
+^[Query353]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Currency>
+}
+
+^[Query354]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Artery>
+}
+
+^[Query355]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/RouteOfTransportation>
+}
+
+^[Query356]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Sales>
+}
+
+^[Query357]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MilitaryPerson>
+}
+
+^[Query358]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/MusicGroup>
+}
+
+^[Query359]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Comedian>
+}
+
+^[Query360]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/LandmarksOrHistoricalBuildings>
+}
+
+^[Query361]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PeriodicalLiterature>
+}
+
+^[Query362]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Moss>
+}
+
+^[Query363]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AmericanFootballPlayer>
+}
+
+^[Query364]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Canal>
+}
+
+^[Query365]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Hospital>
+}
+
+^[Query366]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Hospital>
+}
+
+^[Query367]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Sculpture>
+}
+
+^[Query368]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Film>
+}
+
+^[Query369]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Artist>
+}
+
+^[Query370]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SpeedwayLeague>
+}
+
+^[Query371]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/IceHockeyPlayer>
+}
+
+^[Query372]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FieldHockeyLeague>
+}
+
+^[Query373]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AdultActor>
+}
+
+^[Query374]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Protein>
+}
+
+^[Query375]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GeneLocation>
+}
+
+^[Query376]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/VolleyballPlayer>
+}
+
+^[Query377]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TeamMember>
+}
+
+^[Query378]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Bird>
+}
+
+^[Query379]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Ideology>
+}
+
+^[Query380]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PersonFunction>
+}
+
+^[Query381]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/HandballLeague>
+}
+
+^[Query382]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/AutomobileEngine>
+}
+
+^[Query383]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Gnetophytes>
+}
+
+^[Query384]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Journalist>
+}
+
+^[Query385]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Ambassador>
+}
+
+^[Query386]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Song>
+}
+
+^[Query387]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Automobile>
+}
+
+^[Query388]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/ProtectedArea>
+}
+
+^[Query389]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Ship>
+}
+
+^[Query390]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BowlingLeague>
+}
+
+^[Query391]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/EducationalOrganization>
+}
+
+^[Query392]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Building>
+}
+
+^[Query393]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Disease>
+}
+
+^[Query394]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Band>
+}
+
+^[Query395]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Volcano>
+}
+
+^[Query396]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Continent>
+}
+
+^[Query397]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Database>
+}
+
+^[Query398]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GolfPlayer>
+}
+
+^[Query399]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BiologicalDatabase>
+}
+
+^[Query400]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Canal>
+}
+
+^[Query401]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Constellation>
+}
+
+^[Query402]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Conifer>
+}
+
+^[Query403]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MouseGeneLocation>
+}
+
+^[Query404]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#RetireeDestination>
+}
+
+^[Query405]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Athlete>
+}
+
+^[Query406]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CanadianFootballTeam>
+}
+
+^[Query407]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Grape>
+}
+
+^[Query408]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#UrbanArea>
+}
+
+^[Query409]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/PopulatedPlace>
+}
+
+^[Query410]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/BodyOfWater>
+}
+
+^[Query411]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/LawFirm>
+}
+
+^[Query412]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Restaurant>
+}
+
+^[Query413]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Muscle>
+}
+
+^[Query414]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Language>
+}
+
+^[Query415]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/FigureSkater>
+}
+
+^[Query416]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerClub>
+}
+
+^[Query417]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MotorcycleRacingLeague>
+}
+
+^[Query418]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Name>
+}
+
+^[Query419]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/CanadianFootballPlayer>
+}
+
+^[Query420]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/SoccerManager>
+}
+
+^[Query421]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Sightseeing>
+}
+
+^[Query422]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://www.owl-ontologies.com/travel.owl#Town>
+}
+
+^[Query423]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Philosopher>
+}
+
+^[Query424]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TelevisionShow>
+}
+
+^[Query425]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/OfficeHolder>
+}
+
+^[Query426]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Animal>
+}
+
+^[Query427]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Referee>
+}
+
+^[Query428]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Library>
+}
+
+^[Query429]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Lieutenant>
+}
+
+^[Query430]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Island>
+}
+
+^[Query431]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BroadcastNetwork>
+}
+
+^[Query432]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/GovernmentOrganization>
+}
+
+^[Query433]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Embryology>
+}
+
+^[Query434]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Actor>
+}
+
+^[Query435]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BoxingLeague>
+}
+
+^[Query436]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/Play>
+}
+
+^[Query437]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://schema.org/Painting>
+}
+
+^[Query438]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/BasketballPlayer>
+}
+
+^[Query439]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/GovernmentType>
+}
+
+^[Query440]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/MountainPass>
+}
+
+^[Query441]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?x
+WHERE {
+?x rdf:type <http://dbpedia.org/ontology/TennisTournament>
+}
+
+^[Query442]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalPosition> ?y .
+}
+
+^[Query443]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/laurenceOlivierAward> ?y .
+}
+
+^[Query444]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sportDiscipline> ?y .
+}
+
+^[Query445]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lowestPlace> ?y .
+}
+
+^[Query446]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthPlace> ?y .
+}
+
+^[Query447]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalRegion> ?y .
+}
+
+^[Query448]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leaderFunction> ?y .
+}
+
+^[Query449]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/riverMouth> ?y .
+}
+
+^[Query450]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/saint> ?y .
+}
+
+^[Query451]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/targetSpaceStation> ?y .
+}
+
+^[Query452]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/district> ?y .
+}
+
+^[Query453]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lessPopulousCountry> ?y .
+}
+
+^[Query454]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/notableCommander> ?y .
+}
+
+^[Query455]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/canonizedPlace> ?y .
+}
+
+^[Query456]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentPosition> ?y .
+}
+
+^[Query457]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countryWithFirstSatelliteLaunched> ?y .
+}
+
+^[Query458]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/metropolitanBorough> ?y .
+}
+
+^[Query459]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/prospectTeam> ?y .
+}
+
+^[Query460]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/biome> ?y .
+}
+
+^[Query461]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/generalManager> ?y .
+}
+
+^[Query462]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alumni> ?y .
+}
+
+^[Query463]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/endingTheme> ?y .
+}
+
+^[Query464]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/academicAdvisor> ?y .
+}
+
+^[Query465]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/season> ?y .
+}
+
+^[Query466]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluenceCountry> ?y .
+}
+
+^[Query467]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nationalTeam> ?y .
+}
+
+^[Query468]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtChampionships> ?y .
+}
+
+^[Query469]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/goldenRaspberryAward> ?y .
+}
+
+^[Query470]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/commune> ?y .
+}
+
+^[Query471]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/architectualBureau> ?y .
+}
+
+^[Query472]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/hometown> ?y .
+}
+
+^[Query473]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/painter> ?y .
+}
+
+^[Query474]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alliance> ?y .
+}
+
+^[Query475]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/building> ?y .
+}
+
+^[Query476]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerHighschool> ?y .
+}
+
+^[Query477]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentMostSteady> ?y .
+}
+
+^[Query478]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/notableStudent> ?y .
+}
+
+^[Query479]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/predecessor> ?y .
+}
+
+^[Query480]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sportCountry> ?y .
+}
+
+^[Query481]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/orthologousGene> ?y .
+}
+
+^[Query482]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerChoreographer> ?y .
+}
+
+^[Query483]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/patron> ?y .
+}
+
+^[Query484]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/assembly> ?y .
+}
+
+^[Query485]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/field> ?y .
+}
+
+^[Query486]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/majorIsland> ?y .
+}
+
+^[Query487]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/owningOrganisation> ?y .
+}
+
+^[Query488]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/trainer> ?y .
+}
+
+^[Query489]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/resolution> ?y .
+}
+
+^[Query490]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/principalArea> ?y .
+}
+
+^[Query491]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soocerLeagueRelegated> ?y .
+}
+
+^[Query492]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluenceRegion> ?y .
+}
+
+^[Query493]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/openingTheme> ?y .
+}
+
+^[Query494]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/congressionalDistrict> ?y .
+}
+
+^[Query495]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerPartner> ?y .
+}
+
+^[Query496]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/affiliation> ?y .
+}
+
+^[Query497]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/occupation> ?y .
+}
+
+^[Query498]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/hasJunctionWith> ?y .
+}
+
+^[Query499]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/railwayRollingStock> ?y .
+}
+
+^[Query500]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/meetingRoad> ?y .
+}
+
+^[Query501]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/custodian> ?y .
+}
+
+^[Query502]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nobelLaureates> ?y .
+}
+
+^[Query503]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/largestCity> ?y .
+}
+
+^[Query504]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/relative> ?y .
+}
+
+^[Query505]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/olympicOathSwornByAthlete> ?y .
+}
+
+^[Query506]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/superintendent> ?y .
+}
+
+^[Query507]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/map> ?y .
+}
+
+^[Query508]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/setDesigner> ?y .
+}
+
+^[Query509]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftRecon> ?y .
+}
+
+^[Query510]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/crew> ?y .
+}
+
+^[Query511]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associationOfLocalGovernment> ?y .
+}
+
+^[Query512]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtProTournaments> ?y .
+}
+
+^[Query513]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mountainRange> ?y .
+}
+
+^[Query514]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#hasContact> ?y .
+}
+
+^[Query515]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/arielAward> ?y .
+}
+
+^[Query516]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/colour> ?y .
+}
+
+^[Query517]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/jurisdiction> ?y .
+}
+
+^[Query518]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/presenter> ?y .
+}
+
+^[Query519]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/birthPlace> ?y .
+}
+
+^[Query520]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/engineType> ?y .
+}
+
+^[Query521]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/administrator> ?y .
+}
+
+^[Query522]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/officialOpenedBy> ?y .
+}
+
+^[Query523]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/largestSettlement> ?y .
+}
+
+^[Query524]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/costumeDesigner> ?y .
+}
+
+^[Query525]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/classis> ?y .
+}
+
+^[Query526]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/supplies> ?y .
+}
+
+^[Query527]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/maidenFlightRocket> ?y .
+}
+
+^[Query528]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftAttack> ?y .
+}
+
+^[Query529]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/operatingSystem> ?y .
+}
+
+^[Query530]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftInterceptor> ?y .
+}
+
+^[Query531]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/servingRailwayLine> ?y .
+}
+
+^[Query532]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/uRN> ?y .
+}
+
+^[Query533]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/homeStadium> ?y .
+}
+
+^[Query534]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/canton> ?y .
+}
+
+^[Query535]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/type> ?y .
+}
+
+^[Query536]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/language> ?y .
+}
+
+^[Query537]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/currency> ?y .
+}
+
+^[Query538]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/almaMater> ?y .
+}
+
+^[Query539]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsMajorSector> ?y .
+}
+
+^[Query540]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#isOfferedAt> ?y .
+}
+
+^[Query541]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtSenEuro> ?y .
+}
+
+^[Query542]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/waterwayThroughTunnel> ?y .
+}
+
+^[Query543]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/shipCrew> ?y .
+}
+
+^[Query544]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/restingPlacePosition> ?y .
+}
+
+^[Query545]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstRace> ?y .
+}
+
+^[Query546]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/grades> ?y .
+}
+
+^[Query547]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsSection> ?y .
+}
+
+^[Query548]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/opponent> ?y .
+}
+
+^[Query549]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterUtility> ?y .
+}
+
+^[Query550]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/deathCause> ?y .
+}
+
+^[Query551]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/executiveHeadteacher> ?y .
+}
+
+^[Query552]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/viceChancellor> ?y .
+}
+
+^[Query553]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sportSpecialty> ?y .
+}
+
+^[Query554]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/kingdom> ?y .
+}
+
+^[Query555]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/committeeInLegislature> ?y .
+}
+
+^[Query556]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/landingVehicle> ?y .
+}
+
+^[Query557]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vicePrincipalLabel> ?y .
+}
+
+^[Query558]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governorGeneral> ?y .
+}
+
+^[Query559]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/poleDriverTeam> ?y .
+}
+
+^[Query560]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/product> ?y .
+}
+
+^[Query561]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/typeOfElectrification> ?y .
+}
+
+^[Query562]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/climate> ?y .
+}
+
+^[Query563]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managerClub> ?y .
+}
+
+^[Query564]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/citizenship> ?y .
+}
+
+^[Query565]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spurType> ?y .
+}
+
+^[Query566]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/primeMinister> ?y .
+}
+
+^[Query567]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/statisticLabel> ?y .
+}
+
+^[Query568]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstAscentPerson> ?y .
+}
+
+^[Query569]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/department> ?y .
+}
+
+^[Query570]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/parentOrganisation> ?y .
+}
+
+^[Query571]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/school> ?y .
+}
+
+^[Query572]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coProducer> ?y .
+}
+
+^[Query573]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/philosophicalSchool> ?y .
+}
+
+^[Query574]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/company> ?y .
+}
+
+^[Query575]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highestPosition> ?y .
+}
+
+^[Query576]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/executiveProducer> ?y .
+}
+
+^[Query577]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/photographer> ?y .
+}
+
+^[Query578]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsSupergroup> ?y .
+}
+
+^[Query579]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/battle> ?y .
+}
+
+^[Query580]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/computingMedia> ?y .
+}
+
+^[Query581]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/currentPartner> ?y .
+}
+
+^[Query582]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/twinCity> ?y .
+}
+
+^[Query583]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/peabodyAward> ?y .
+}
+
+^[Query584]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/premierePlace> ?y .
+}
+
+^[Query585]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentCountry> ?y .
+}
+
+^[Query586]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/place> ?y .
+}
+
+^[Query587]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/stateDelegate> ?y .
+}
+
+^[Query588]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soocerLeaguePromoted> ?y .
+}
+
+^[Query589]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/notableWork> ?y .
+}
+
+^[Query590]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/equipment> ?y .
+}
+
+^[Query591]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/board> ?y .
+}
+
+^[Query592]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/astrologicalSign> ?y .
+}
+
+^[Query593]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/dean> ?y .
+}
+
+^[Query594]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/inflow> ?y .
+}
+
+^[Query595]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/locatedInArea> ?y .
+}
+
+^[Query596]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/basedOn> ?y .
+}
+
+^[Query597]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalMountain> ?y .
+}
+
+^[Query598]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/closingFilm> ?y .
+}
+
+^[Query599]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/memberOfParliament> ?y .
+}
+
+^[Query600]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/isPartOf> ?y .
+}
+
+^[Query601]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerCoach> ?y .
+}
+
+^[Query602]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstDriverCountry> ?y .
+}
+
+^[Query603]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/religiousHeadLabel> ?y .
+}
+
+^[Query604]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/homeport> ?y .
+}
+
+^[Query605]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/religiousHead> ?y .
+}
+
+^[Query606]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/team> ?y .
+}
+
+^[Query607]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/pastMember> ?y .
+}
+
+^[Query608]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/previousEvent> ?y .
+}
+
+^[Query609]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/neighboringMunicipality> ?y .
+}
+
+^[Query610]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/subsequentInfrastructure> ?y .
+}
+
+^[Query611]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/engine> ?y .
+}
+
+^[Query612]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sisterNewspaper> ?y .
+}
+
+^[Query613]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/contractor> ?y .
+}
+
+^[Query614]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentType> ?y .
+}
+
+^[Query615]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/format> ?y .
+}
+
+^[Query616]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/architect> ?y .
+}
+
+^[Query617]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstDriver> ?y .
+}
+
+^[Query618]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/buriedPlace> ?y .
+}
+
+^[Query619]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/species> ?y .
+}
+
+^[Query620]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/languageRegulator> ?y .
+}
+
+^[Query621]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterAttack> ?y .
+}
+
+^[Query622]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/currentTeamMember> ?y .
+}
+
+^[Query623]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/filmFareAward> ?y .
+}
+
+^[Query624]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/pictureFormat> ?y .
+}
+
+^[Query625]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/launchPad> ?y .
+}
+
+^[Query626]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftBomber> ?y .
+}
+
+^[Query627]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/developer> ?y .
+}
+
+^[Query628]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/architecturalStyle> ?y .
+}
+
+^[Query629]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chairLabel> ?y .
+}
+
+^[Query630]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/domain> ?y .
+}
+
+^[Query631]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nationalOlympicCommittee> ?y .
+}
+
+^[Query632]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/smallestCountry> ?y .
+}
+
+^[Query633]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/gender> ?y .
+}
+
+^[Query634]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/publisher> ?y .
+}
+
+^[Query635]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/award> ?y .
+}
+
+^[Query636]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/relation> ?y .
+}
+
+^[Query637]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/borough> ?y .
+}
+
+^[Query638]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/city> ?y .
+}
+
+^[Query639]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managementPosition> ?y .
+}
+
+^[Query640]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/complexion> ?y .
+}
+
+^[Query641]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/film> ?y .
+}
+
+^[Query642]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/residence> ?y .
+}
+
+^[Query643]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/stylisticOrigin> ?y .
+}
+
+^[Query644]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftUser> ?y .
+}
+
+^[Query645]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chancellor> ?y .
+}
+
+^[Query646]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nisCode> ?y .
+}
+
+^[Query647]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/usedInWar> ?y .
+}
+
+^[Query648]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/university> ?y .
+}
+
+^[Query649]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthCountry> ?y .
+}
+
+^[Query650]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chaplain> ?y .
+}
+
+^[Query651]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/poorestCountry> ?y .
+}
+
+^[Query652]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/league> ?y .
+}
+
+^[Query653]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mergedIntoParty> ?y .
+}
+
+^[Query654]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentThisSeason> ?y .
+}
+
+^[Query655]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/territory> ?y .
+}
+
+^[Query656]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/silverMedalist> ?y .
+}
+
+^[Query657]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/terytCode> ?y .
+}
+
+^[Query658]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/militaryUnit> ?y .
+}
+
+^[Query659]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/taoiseach> ?y .
+}
+
+^[Query660]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nonFictionSubject> ?y .
+}
+
+^[Query661]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtKLPGA> ?y .
+}
+
+^[Query662]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rocket> ?y .
+}
+
+^[Query663]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtAlpg> ?y .
+}
+
+^[Query664]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/genus> ?y .
+}
+
+^[Query665]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fastestDriverCountry> ?y .
+}
+
+^[Query666]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/honours> ?y .
+}
+
+^[Query667]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/source> ?y .
+}
+
+^[Query668]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/doctoralStudent> ?y .
+}
+
+^[Query669]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/county> ?y .
+}
+
+^[Query670]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/officerInCharge> ?y .
+}
+
+^[Query671]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/populationPlace> ?y .
+}
+
+^[Query672]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/actingHeadteacher> ?y .
+}
+
+^[Query673]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lowestState> ?y .
+}
+
+^[Query674]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceMountain> ?y .
+}
+
+^[Query675]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ingredient> ?y .
+}
+
+^[Query676]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/blockAlloy> ?y .
+}
+
+^[Query677]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/denomination> ?y .
+}
+
+^[Query678]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/voice> ?y .
+}
+
+^[Query679]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/flagBearer> ?y .
+}
+
+^[Query680]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rebuilder> ?y .
+}
+
+^[Query681]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftFighter> ?y .
+}
+
+^[Query682]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/discoverer> ?y .
+}
+
+^[Query683]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/voiceType> ?y .
+}
+
+^[Query684]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/whaDraftTeam> ?y .
+}
+
+^[Query685]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fuel> ?y .
+}
+
+^[Query686]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/subsequentWork> ?y .
+}
+
+^[Query687]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countryWithFirstAstronaut> ?y .
+}
+
+^[Query688]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leader> ?y .
+}
+
+^[Query689]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/municipality> ?y .
+}
+
+^[Query690]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/director> ?y .
+}
+
+^[Query691]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/show> ?y .
+}
+
+^[Query692]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/event> ?y .
+}
+
+^[Query693]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/bodyStyle> ?y .
+}
+
+^[Query694]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/operator> ?y .
+}
+
+^[Query695]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/narrator> ?y .
+}
+
+^[Query696]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rocketFunction> ?y .
+}
+
+^[Query697]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/innervates> ?y .
+}
+
+^[Query698]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourcePosition> ?y .
+}
+
+^[Query699]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/relatedMeanOfTransportation> ?y .
+}
+
+^[Query700]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalDistrict> ?y .
+}
+
+^[Query701]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/splitFromParty> ?y .
+}
+
+^[Query702]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chiefEditor> ?y .
+}
+
+^[Query703]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/launchSite> ?y .
+}
+
+^[Query704]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coachedTeam> ?y .
+}
+
+^[Query705]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nationality> ?y .
+}
+
+^[Query706]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/guest> ?y .
+}
+
+^[Query707]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/doctoralAdvisor> ?y .
+}
+
+^[Query708]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstDriverTeam> ?y .
+}
+
+^[Query709]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/politicalPartyOfLeader> ?y .
+}
+
+^[Query710]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lastLaunchRocket> ?y .
+}
+
+^[Query711]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ground> ?y .
+}
+
+^[Query712]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/manufacturer> ?y .
+}
+
+^[Query713]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluence> ?y .
+}
+
+^[Query714]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nextMission> ?y .
+}
+
+^[Query715]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/routeStart> ?y .
+}
+
+^[Query716]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/gameEngine> ?y .
+}
+
+^[Query717]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/arrondissement> ?y .
+}
+
+^[Query718]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/museum> ?y .
+}
+
+^[Query719]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/locationCountry> ?y .
+}
+
+^[Query720]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/recordLabel> ?y .
+}
+
+^[Query721]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/schoolBoard> ?y .
+}
+
+^[Query722]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/artist> ?y .
+}
+
+^[Query723]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/veneratedIn> ?y .
+}
+
+^[Query724]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/routeStartLocation> ?y .
+}
+
+^[Query725]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/naacpImageAward> ?y .
+}
+
+^[Query726]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthMountain> ?y .
+}
+
+^[Query727]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/baftaAward> ?y .
+}
+
+^[Query728]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/choreographer> ?y .
+}
+
+^[Query729]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/patent> ?y .
+}
+
+^[Query730]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associate> ?y .
+}
+
+^[Query731]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/dfE> ?y .
+}
+
+^[Query732]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerTeam> ?y .
+}
+
+^[Query733]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/schoolPatron> ?y .
+}
+
+^[Query734]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nerve> ?y .
+}
+
+^[Query735]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstLeader> ?y .
+}
+
+^[Query736]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/specialEffects> ?y .
+}
+
+^[Query737]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countySeat> ?y .
+}
+
+^[Query738]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/numberOfClassrooms> ?y .
+}
+
+^[Query739]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthPosition> ?y .
+}
+
+^[Query740]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/politicGovernmentDepartment> ?y .
+}
+
+^[Query741]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/clubsRecordGoalscorer> ?y .
+}
+
+^[Query742]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lieutenant> ?y .
+}
+
+^[Query743]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/derivative> ?y .
+}
+
+^[Query744]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentLastChampion> ?y .
+}
+
+^[Query745]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/service> ?y .
+}
+
+^[Query746]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chairman> ?y .
+}
+
+^[Query747]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/usingCountry> ?y .
+}
+
+^[Query748]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/automobilePlatform> ?y .
+}
+
+^[Query749]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/artery> ?y .
+}
+
+^[Query750]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/isoCodeRegion> ?y .
+}
+
+^[Query751]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/instrument> ?y .
+}
+
+^[Query752]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtPGA> ?y .
+}
+
+^[Query753]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rival> ?y .
+}
+
+^[Query754]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/similar> ?y .
+}
+
+^[Query755]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentRegion> ?y .
+}
+
+^[Query756]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/binomialAuthority> ?y .
+}
+
+^[Query757]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/productionCompany> ?y .
+}
+
+^[Query758]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtJapan> ?y .
+}
+
+^[Query759]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/commandStructure> ?y .
+}
+
+^[Query760]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/americanComedyAward> ?y .
+}
+
+^[Query761]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstLaunchRocket> ?y .
+}
+
+^[Query762]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/officialLanguage> ?y .
+}
+
+^[Query763]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluenceState> ?y .
+}
+
+^[Query764]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/outflow> ?y .
+}
+
+^[Query765]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/followingEvent> ?y .
+}
+
+^[Query766]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/thirdDriverCountry> ?y .
+}
+
+^[Query767]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/beatifiedBy> ?y .
+}
+
+^[Query768]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftTransport> ?y .
+}
+
+^[Query769]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/administrativeDistrict> ?y .
+}
+
+^[Query770]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/eyeColor> ?y .
+}
+
+^[Query771]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsSubgroup> ?y .
+}
+
+^[Query772]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/beatifiedPlace> ?y .
+}
+
+^[Query773]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/elementAbove> ?y .
+}
+
+^[Query774]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/bloodType> ?y .
+}
+
+^[Query775]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spokenIn> ?y .
+}
+
+^[Query776]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countryWithFirstSatellite> ?y .
+}
+
+^[Query777]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/related> ?y .
+}
+
+^[Query778]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/populationTotalReference> ?y .
+}
+
+^[Query779]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtLET> ?y .
+}
+
+^[Query780]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/hairColor> ?y .
+}
+
+^[Query781]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/precursor> ?y .
+}
+
+^[Query782]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/screenActorsGuildAward> ?y .
+}
+
+^[Query783]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/varietals> ?y .
+}
+
+^[Query784]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lyrics> ?y .
+}
+
+^[Query785]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/hasVariant> ?y .
+}
+
+^[Query786]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtAsia> ?y .
+}
+
+^[Query787]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/beltwayCity> ?y .
+}
+
+^[Query788]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/archipelago> ?y .
+}
+
+^[Query789]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/senator> ?y .
+}
+
+^[Query790]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coExecutiveProducer> ?y .
+}
+
+^[Query791]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/iftaAward> ?y .
+}
+
+^[Query792]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/march> ?y .
+}
+
+^[Query793]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/distributingCompany> ?y .
+}
+
+^[Query794]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/playerInTeam> ?y .
+}
+
+^[Query795]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/garrison> ?y .
+}
+
+^[Query796]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/tonyAward> ?y .
+}
+
+^[Query797]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/previousEditor> ?y .
+}
+
+^[Query798]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsGroup> ?y .
+}
+
+^[Query799]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/phylum> ?y .
+}
+
+^[Query800]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/producer> ?y .
+}
+
+^[Query801]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/trainerClub> ?y .
+}
+
+^[Query802]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/designCompany> ?y .
+}
+
+^[Query803]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wikiPageWikiLink> ?y .
+}
+
+^[Query804]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/actScore> ?y .
+}
+
+^[Query805]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/areaOfSearch> ?y .
+}
+
+^[Query806]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leaderName> ?y .
+}
+
+^[Query807]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highestMountain> ?y .
+}
+
+^[Query808]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#hasAccommodation> ?y .
+}
+
+^[Query809]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/largestCountry> ?y .
+}
+
+^[Query810]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/province> ?y .
+}
+
+^[Query811]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/selection> ?y .
+}
+
+^[Query812]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vein> ?y .
+}
+
+^[Query813]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sales> ?y .
+}
+
+^[Query814]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthRegion> ?y .
+}
+
+^[Query815]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/literaryGenre> ?y .
+}
+
+^[Query816]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/previousMission> ?y .
+}
+
+^[Query817]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sport> ?y .
+}
+
+^[Query818]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/militaryBranch> ?y .
+}
+
+^[Query819]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/retiredRocket> ?y .
+}
+
+^[Query820]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/launchVehicle> ?y .
+}
+
+^[Query821]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/headteacher> ?y .
+}
+
+^[Query822]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/knownFor> ?y .
+}
+
+^[Query823]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtNWIDE> ?y .
+}
+
+^[Query824]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/series> ?y .
+}
+
+^[Query825]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/organisationMember> ?y .
+}
+
+^[Query826]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/availableSmartCard> ?y .
+}
+
+^[Query827]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ethnicGroup> ?y .
+}
+
+^[Query828]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/routeEnd> ?y .
+}
+
+^[Query829]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managementPlace> ?y .
+}
+
+^[Query830]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondTeam> ?y .
+}
+
+^[Query831]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/webcast> ?y .
+}
+
+^[Query832]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtLPGA> ?y .
+}
+
+^[Query833]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/structuralSystem> ?y .
+}
+
+^[Query834]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/license> ?y .
+}
+
+^[Query835]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/significantBuilding> ?y .
+}
+
+^[Query836]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/educationSystem> ?y .
+}
+
+^[Query837]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftTrainer> ?y .
+}
+
+^[Query838]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/builder> ?y .
+}
+
+^[Query839]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/polishFilmAward> ?y .
+}
+
+^[Query840]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/royalAnthem> ?y .
+}
+
+^[Query841]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/iso6393Code> ?y .
+}
+
+^[Query842]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/headChef> ?y .
+}
+
+^[Query843]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/broadcastArea> ?y .
+}
+
+^[Query844]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/legalForm> ?y .
+}
+
+^[Query845]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/person> ?y .
+}
+
+^[Query846]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicComposer> ?y .
+}
+
+^[Query847]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/originalLanguage> ?y .
+}
+
+^[Query848]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secretaryGeneral> ?y .
+}
+
+^[Query849]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mostPopulousCountry> ?y .
+}
+
+^[Query850]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtJLPGA> ?y .
+}
+
+^[Query851]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/principal> ?y .
+}
+
+^[Query852]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wikiPageExternalLink> ?y .
+}
+
+^[Query853]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countryOrigin> ?y .
+}
+
+^[Query854]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/river> ?y .
+}
+
+^[Query855]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ruralMunicipality> ?y .
+}
+
+^[Query856]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/openingFilm> ?y .
+}
+
+^[Query857]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/pictureDescription> ?y .
+}
+
+^[Query858]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lowestPosition> ?y .
+}
+
+^[Query859]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerBroadcastNetwork> ?y .
+}
+
+^[Query860]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leaderParty> ?y .
+}
+
+^[Query861]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/meetingCity> ?y .
+}
+
+^[Query862]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/projectCoordinator> ?y .
+}
+
+^[Query863]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicalArtist> ?y .
+}
+
+^[Query864]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/gameArtist> ?y .
+}
+
+^[Query865]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/club> ?y .
+}
+
+^[Query866]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winterAppearances> ?y .
+}
+
+^[Query867]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fastestDriver> ?y .
+}
+
+^[Query868]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/animal> ?y .
+}
+
+^[Query869]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondPopularVote> ?y .
+}
+
+^[Query870]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/starring> ?y .
+}
+
+^[Query871]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/branchTo> ?y .
+}
+
+^[Query872]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/layout> ?y .
+}
+
+^[Query873]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/broadcastNetwork> ?y .
+}
+
+^[Query874]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/showJudge> ?y .
+}
+
+^[Query875]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/movement> ?y .
+}
+
+^[Query876]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wikiPageRedirects> ?y .
+}
+
+^[Query877]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthState> ?y .
+}
+
+^[Query878]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftElectronic> ?y .
+}
+
+^[Query879]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soocerLeagueWinner> ?y .
+}
+
+^[Query880]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chef> ?y .
+}
+
+^[Query881]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/computingPlatform> ?y .
+}
+
+^[Query882]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/goldenCalfAward> ?y .
+}
+
+^[Query883]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/goldMedalist> ?y .
+}
+
+^[Query884]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/brand> ?y .
+}
+
+^[Query885]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/previousInfrastructure> ?y .
+}
+
+^[Query886]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/footedness> ?y .
+}
+
+^[Query887]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/intercommunality> ?y .
+}
+
+^[Query888]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/afiAward> ?y .
+}
+
+^[Query889]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceRegion> ?y .
+}
+
+^[Query890]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/frazioni> ?y .
+}
+
+^[Query891]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/poleDriver> ?y .
+}
+
+^[Query892]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/isPartOfWineRegion> ?y .
+}
+
+^[Query893]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/operatedBy> ?y .
+}
+
+^[Query894]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/order> ?y .
+}
+
+^[Query895]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/teachingStaff> ?y .
+}
+
+^[Query896]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/division> ?y .
+}
+
+^[Query897]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/significantProject> ?y .
+}
+
+^[Query898]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> ?y .
+}
+
+^[Query899]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/foundingPerson> ?y .
+}
+
+^[Query900]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/torchBearer> ?y .
+}
+
+^[Query901]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mainOrgan> ?y .
+}
+
+^[Query902]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalPlace> ?y .
+}
+
+^[Query903]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/iso6391Code> ?y .
+}
+
+^[Query904]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/branchFrom> ?y .
+}
+
+^[Query905]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/drainsTo> ?y .
+}
+
+^[Query906]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/influenced> ?y .
+}
+
+^[Query907]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/border> ?y .
+}
+
+^[Query908]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/programmingLanguage> ?y .
+}
+
+^[Query909]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/partner> ?y .
+}
+
+^[Query910]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/isPartOfMilitaryConflict> ?y .
+}
+
+^[Query911]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/picture> ?y .
+}
+
+^[Query912]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/location> ?y .
+}
+
+^[Query913]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/geneLocation> ?y .
+}
+
+^[Query914]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/orogeny> ?y .
+}
+
+^[Query915]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/crewMember> ?y .
+}
+
+^[Query916]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsInEurope> ?y .
+}
+
+^[Query917]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/gaudiAward> ?y .
+}
+
+^[Query918]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/trustee> ?y .
+}
+
+^[Query919]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluencePosition> ?y .
+}
+
+^[Query920]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/largestMetro> ?y .
+}
+
+^[Query921]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/pastor> ?y .
+}
+
+^[Query922]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/regionServed> ?y .
+}
+
+^[Query923]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/currentMember> ?y .
+}
+
+^[Query924]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/composer> ?y .
+}
+
+^[Query925]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/maintainedBy> ?y .
+}
+
+^[Query926]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nearestCity> ?y .
+}
+
+^[Query927]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceState> ?y .
+}
+
+^[Query928]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/illustrator> ?y .
+}
+
+^[Query929]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managementMountain> ?y .
+}
+
+^[Query930]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/engineer> ?y .
+}
+
+^[Query931]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/summerAppearances> ?y .
+}
+
+^[Query932]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/thirdTeam> ?y .
+}
+
+^[Query933]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/thumbnail> ?y .
+}
+
+^[Query934]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/targetAirport> ?y .
+}
+
+^[Query935]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/foundationPlace> ?y .
+}
+
+^[Query936]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/academyAward> ?y .
+}
+
+^[Query937]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/startPoint> ?y .
+}
+
+^[Query938]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/editor> ?y .
+}
+
+^[Query939]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentOpeningSeason> ?y .
+}
+
+^[Query940]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentMountain> ?y .
+}
+
+^[Query941]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mostWins> ?y .
+}
+
+^[Query942]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/otherAppearances> ?y .
+}
+
+^[Query943]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicBy> ?y .
+}
+
+^[Query944]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/creativeDirector> ?y .
+}
+
+^[Query945]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mainInterest> ?y .
+}
+
+^[Query946]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/parish> ?y .
+}
+
+^[Query947]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mission> ?y .
+}
+
+^[Query948]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/president> ?y .
+}
+
+^[Query949]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#hasActivity> ?y .
+}
+
+^[Query950]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nationalAffiliation> ?y .
+}
+
+^[Query951]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/provost> ?y .
+}
+
+^[Query952]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leftChild> ?y .
+}
+
+^[Query953]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/parentCompany> ?y .
+}
+
+^[Query954]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/party> ?y .
+}
+
+^[Query955]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fuelSystem> ?y .
+}
+
+^[Query956]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstFlight> ?y .
+}
+
+^[Query957]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/part> ?y .
+}
+
+^[Query958]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/foundedBy> ?y .
+}
+
+^[Query959]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capitalCountry> ?y .
+}
+
+^[Query960]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coverArtist> ?y .
+}
+
+^[Query961]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/britishComedyAwards> ?y .
+}
+
+^[Query962]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentTopScorer> ?y .
+}
+
+^[Query963]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/viceLeader> ?y .
+}
+
+^[Query964]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mostPopulatedCountry> ?y .
+}
+
+^[Query965]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/genre> ?y .
+}
+
+^[Query966]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/category> ?y .
+}
+
+^[Query967]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/shuttle> ?y .
+}
+
+^[Query968]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/hubAirport> ?y .
+}
+
+^[Query969]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rightChild> ?y .
+}
+
+^[Query970]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/destination> ?y .
+}
+
+^[Query971]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentMostSuccesfull> ?y .
+}
+
+^[Query972]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#hasRating> ?y .
+}
+
+^[Query973]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/writer> ?y .
+}
+
+^[Query974]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstPopularVote> ?y .
+}
+
+^[Query975]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/island> ?y .
+}
+
+^[Query976]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/creator> ?y .
+}
+
+^[Query977]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondDriverCountry> ?y .
+}
+
+^[Query978]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/component> ?y .
+}
+
+^[Query979]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/college> ?y .
+}
+
+^[Query980]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/crosses> ?y .
+}
+
+^[Query981]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spouse> ?y .
+}
+
+^[Query982]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lounge> ?y .
+}
+
+^[Query983]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/jointCommunity> ?y .
+}
+
+^[Query984]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/influencedBy> ?y .
+}
+
+^[Query985]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtChallenges> ?y .
+}
+
+^[Query986]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nominee> ?y .
+}
+
+^[Query987]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftPatrol> ?y .
+}
+
+^[Query988]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soocerLeagueSeason> ?y .
+}
+
+^[Query989]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/computingInput> ?y .
+}
+
+^[Query990]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/olympicOathSwornByJudge> ?y .
+}
+
+^[Query991]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/distributingLabel> ?y .
+}
+
+^[Query992]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/promotion> ?y .
+}
+
+^[Query993]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sportGoverningBody> ?y .
+}
+
+^[Query994]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/constellation> ?y .
+}
+
+^[Query995]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spurOf> ?y .
+}
+
+^[Query996]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/powerType> ?y .
+}
+
+^[Query997]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associatedBand> ?y .
+}
+
+^[Query998]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/successor> ?y .
+}
+
+^[Query999]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/internationalAffiliation> ?y .
+}
+
+^[Query1000]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/viceLeaderParty> ?y .
+}
+
+^[Query1001]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/variantOf> ?y .
+}
+
+^[Query1002]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicians> ?y .
+}
+
+^[Query1003]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associateStar> ?y .
+}
+
+^[Query1004]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/portrayer> ?y .
+}
+
+^[Query1005]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/incumbent> ?y .
+}
+
+^[Query1006]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spacecraft> ?y .
+}
+
+^[Query1007]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/medalist> ?y .
+}
+
+^[Query1008]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/creatorOfDish> ?y .
+}
+
+^[Query1009]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/riverBranchOf> ?y .
+}
+
+^[Query1010]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/endPoint> ?y .
+}
+
+^[Query1011]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/majorVolcano> ?y .
+}
+
+^[Query1012]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ideology> ?y .
+}
+
+^[Query1013]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondDriver> ?y .
+}
+
+^[Query1014]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/leftTributary> ?y .
+}
+
+^[Query1015]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/management> ?y .
+}
+
+^[Query1016]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aspectRatio> ?y .
+}
+
+^[Query1017]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/port1> ?y .
+}
+
+^[Query1018]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/port2> ?y .
+}
+
+^[Query1019]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vicePresident> ?y .
+}
+
+^[Query1020]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/silCode> ?y .
+}
+
+^[Query1021]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/appointer> ?y .
+}
+
+^[Query1022]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicSubgenre> ?y .
+}
+
+^[Query1023]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/satScore> ?y .
+}
+
+^[Query1024]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/deathPlace> ?y .
+}
+
+^[Query1025]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/inseeCode> ?y .
+}
+
+^[Query1026]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourcePlace> ?y .
+}
+
+^[Query1027]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/administrativeCollectivity> ?y .
+}
+
+^[Query1028]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highestPlace> ?y .
+}
+
+^[Query1029]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/owningCompany> ?y .
+}
+
+^[Query1030]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/humanDevelopmentIndexRankingCategory> ?y .
+}
+
+^[Query1031]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/binomial> ?y .
+}
+
+^[Query1032]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceDistrict> ?y .
+}
+
+^[Query1033]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coolingSystem> ?y .
+}
+
+^[Query1034]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/storyEditor> ?y .
+}
+
+^[Query1035]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/regionalLanguage> ?y .
+}
+
+^[Query1036]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/europeanParliamentGroup> ?y .
+}
+
+^[Query1037]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/youthClub> ?y .
+}
+
+^[Query1038]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/projectParticipant> ?y .
+}
+
+^[Query1039]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/authority> ?y .
+}
+
+^[Query1040]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/europeanAffiliation> ?y .
+}
+
+^[Query1041]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluenceMountain> ?y .
+}
+
+^[Query1042]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/billed> ?y .
+}
+
+^[Query1043]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/previousWork> ?y .
+}
+
+^[Query1044]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterCargo> ?y .
+}
+
+^[Query1045]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/plant> ?y .
+}
+
+^[Query1046]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/bodyDiscovered> ?y .
+}
+
+^[Query1047]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/state> ?y .
+}
+
+^[Query1048]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ceo> ?y .
+}
+
+^[Query1049]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/headquarter> ?y .
+}
+
+^[Query1050]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/explorer> ?y .
+}
+
+^[Query1051]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vehicle> ?y .
+}
+
+^[Query1052]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/cesarAward> ?y .
+}
+
+^[Query1053]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/cluster> ?y .
+}
+
+^[Query1054]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/twinCountry> ?y .
+}
+
+^[Query1055]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lastRace> ?y .
+}
+
+^[Query1056]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterObservation> ?y .
+}
+
+^[Query1057]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/commander> ?y .
+}
+
+^[Query1058]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fundedBy> ?y .
+}
+
+^[Query1059]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/draftTeam> ?y .
+}
+
+^[Query1060]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/majorLake> ?y .
+}
+
+^[Query1061]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/owner> ?y .
+}
+
+^[Query1062]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/iso6392Code> ?y .
+}
+
+^[Query1063]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/booster> ?y .
+}
+
+^[Query1064]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/originalEndPoint> ?y .
+}
+
+^[Query1065]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/child> ?y .
+}
+
+^[Query1066]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/poleDriverCountry> ?y .
+}
+
+^[Query1067]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstAppearance> ?y .
+}
+
+^[Query1068]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/house> ?y .
+}
+
+^[Query1069]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lymph> ?y .
+}
+
+^[Query1070]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/principalEngineer> ?y .
+}
+
+^[Query1071]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lieutenancyArea> ?y .
+}
+
+^[Query1072]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/headAlloy> ?y .
+}
+
+^[Query1073]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/routeJunction> ?y .
+}
+
+^[Query1074]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/riverBranch> ?y .
+}
+
+^[Query1075]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/industry> ?y .
+}
+
+^[Query1076]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/formerBandMember> ?y .
+}
+
+^[Query1077]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lessPopulatedCountry> ?y .
+}
+
+^[Query1078]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/subsidiary> ?y .
+}
+
+^[Query1079]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rightTributary> ?y .
+}
+
+^[Query1080]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governor> ?y .
+}
+
+^[Query1081]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/countryWithFirstSpaceflight> ?y .
+}
+
+^[Query1082]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ceremonialCounty> ?y .
+}
+
+^[Query1083]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vicePrimeMinister> ?y .
+}
+
+^[Query1084]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/geminiAward> ?y .
+}
+
+^[Query1085]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wineProduced> ?y .
+}
+
+^[Query1086]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/country> ?y .
+}
+
+^[Query1087]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/locationCity> ?y .
+}
+
+^[Query1088]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mouthDistrict> ?y .
+}
+
+^[Query1089]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/thirdCommander> ?y .
+}
+
+^[Query1090]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/addressInRoad> ?y .
+}
+
+^[Query1091]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsSubsection> ?y .
+}
+
+^[Query1092]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governmentPlace> ?y .
+}
+
+^[Query1093]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/family> ?y .
+}
+
+^[Query1094]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/olivierAward> ?y .
+}
+
+^[Query1095]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/namedAfter> ?y .
+}
+
+^[Query1096]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highestRegion> ?y .
+}
+
+^[Query1097]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fourthCommander> ?y .
+}
+
+^[Query1098]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/grammyAward> ?y .
+}
+
+^[Query1099]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/stateOfOrigin> ?y .
+}
+
+^[Query1100]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/placeOfBurial> ?y .
+}
+
+^[Query1101]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/distributor> ?y .
+}
+
+^[Query1102]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/monarch> ?y .
+}
+
+^[Query1103]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/soccerTournamentClosingSeason> ?y .
+}
+
+^[Query1104]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/localAuthority> ?y .
+}
+
+^[Query1105]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/parentMountainPeak> ?y .
+}
+
+^[Query1106]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterMultirole> ?y .
+}
+
+^[Query1107]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lunarRover> ?y .
+}
+
+^[Query1108]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/vicePrincipal> ?y .
+}
+
+^[Query1109]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/class> ?y .
+}
+
+^[Query1110]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wineRegion> ?y .
+}
+
+^[Query1111]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/canonizedBy> ?y .
+}
+
+^[Query1112]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/rector> ?y .
+}
+
+^[Query1113]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/head> ?y .
+}
+
+^[Query1114]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/richestCountry> ?y .
+}
+
+^[Query1115]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/keyPerson> ?y .
+}
+
+^[Query1116]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alongside> ?y .
+}
+
+^[Query1117]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mayor> ?y .
+}
+
+^[Query1118]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/recentWinner> ?y .
+}
+
+^[Query1119]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/restingPlace> ?y .
+}
+
+^[Query1120]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceConfluencePlace> ?y .
+}
+
+^[Query1121]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/deputy> ?y .
+}
+
+^[Query1122]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managementRegion> ?y .
+}
+
+^[Query1123]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/origin> ?y .
+}
+
+^[Query1124]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/manager> ?y .
+}
+
+^[Query1125]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highestState> ?y .
+}
+
+^[Query1126]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/training> ?y .
+}
+
+^[Query1127]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicFusionGenre> ?y .
+}
+
+^[Query1128]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtSun> ?y .
+}
+
+^[Query1129]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lastAppearance> ?y .
+}
+
+^[Query1130]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/era> ?y .
+}
+
+^[Query1131]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/childOrganisation> ?y .
+}
+
+^[Query1132]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/musicalBand> ?y .
+}
+
+^[Query1133]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managementCountry> ?y .
+}
+
+^[Query1134]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/connotation> ?y .
+}
+
+^[Query1135]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/boilerPressure> ?y .
+}
+
+^[Query1136]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/growingGrape> ?y .
+}
+
+^[Query1137]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/notableWine> ?y .
+}
+
+^[Query1138]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/simcCode> ?y .
+}
+
+^[Query1139]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/capital> ?y .
+}
+
+^[Query1140]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associatedMusicalArtist> ?y .
+}
+
+^[Query1141]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/anthem> ?y .
+}
+
+^[Query1142]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/channel> ?y .
+}
+
+^[Query1143]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtAus> ?y .
+}
+
+^[Query1144]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/handedness> ?y .
+}
+
+^[Query1145]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highschool> ?y .
+}
+
+^[Query1146]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/highwaySystem> ?y .
+}
+
+^[Query1147]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sisterCollege> ?y .
+}
+
+^[Query1148]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/academicDiscipline> ?y .
+}
+
+^[Query1149]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/subregion> ?y .
+}
+
+^[Query1150]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/designer> ?y .
+}
+
+^[Query1151]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/governingBody> ?y .
+}
+
+^[Query1152]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chain> ?y .
+}
+
+^[Query1153]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/daylightSavingTimeZone> ?y .
+}
+
+^[Query1154]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstWin> ?y .
+}
+
+^[Query1155]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/debutTeam> ?y .
+}
+
+^[Query1156]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associateEditor> ?y .
+}
+
+^[Query1157]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/unitaryAuthority> ?y .
+}
+
+^[Query1158]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/personFunction> ?y .
+}
+
+^[Query1159]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/assistantPrincipal> ?y .
+}
+
+^[Query1160]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/programmeFormat> ?y .
+}
+
+^[Query1161]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/politicalPartyInLegislature> ?y .
+}
+
+^[Query1162]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wikiPageDisambiguates> ?y .
+}
+
+^[Query1163]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/goyaAward> ?y .
+}
+
+^[Query1164]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lastFlight> ?y .
+}
+
+^[Query1165]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/profession> ?y .
+}
+
+^[Query1166]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lastWin> ?y .
+}
+
+^[Query1167]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sexualOrientation> ?y .
+}
+
+^[Query1168]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondLeader> ?y .
+}
+
+^[Query1169]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/firstWinner> ?y .
+}
+
+^[Query1170]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lowestRegion> ?y .
+}
+
+^[Query1171]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/councilArea> ?y .
+}
+
+^[Query1172]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/comparable> ?y .
+}
+
+^[Query1173]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/meetingBuilding> ?y .
+}
+
+^[Query1174]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/employer> ?y .
+}
+
+^[Query1175]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/editing> ?y .
+}
+
+^[Query1176]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/railwayLineUsingTunnel> ?y .
+}
+
+^[Query1177]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/currentProduction> ?y .
+}
+
+^[Query1178]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nrhpType> ?y .
+}
+
+^[Query1179]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/secondCommander> ?y .
+}
+
+^[Query1180]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/government> ?y .
+}
+
+^[Query1181]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/timeZone> ?y .
+}
+
+^[Query1182]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/tenant> ?y .
+}
+
+^[Query1183]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/mediaType> ?y .
+}
+
+^[Query1184]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/cpu> ?y .
+}
+
+^[Query1185]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/otherParty> ?y .
+}
+
+^[Query1186]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associatedRocket> ?y .
+}
+
+^[Query1187]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/spokesperson> ?y .
+}
+
+^[Query1188]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/youthWing> ?y .
+}
+
+^[Query1189]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/organSystem> ?y .
+}
+
+^[Query1190]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/dubber> ?y .
+}
+
+^[Query1191]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/runningMate> ?y .
+}
+
+^[Query1192]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/thirdDriver> ?y .
+}
+
+^[Query1193]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/religion> ?y .
+}
+
+^[Query1194]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/campus> ?y .
+}
+
+^[Query1195]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/coach> ?y .
+}
+
+^[Query1196]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/oilSystem> ?y .
+}
+
+^[Query1197]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtLAGT> ?y .
+}
+
+^[Query1198]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/athletics> ?y .
+}
+
+^[Query1199]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sheading> ?y .
+}
+
+^[Query1200]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/heir> ?y .
+}
+
+^[Query1201]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/alpsMainPart> ?y .
+}
+
+^[Query1202]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/significantDesign> ?y .
+}
+
+^[Query1203]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopter> ?y .
+}
+
+^[Query1204]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/aircraftHelicopterTransport> ?y .
+}
+
+^[Query1205]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/album> ?y .
+}
+
+^[Query1206]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sourceCountry> ?y .
+}
+
+^[Query1207]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/notableIdea> ?y .
+}
+
+^[Query1208]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/goldenGlobeAward> ?y .
+}
+
+^[Query1209]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/curator> ?y .
+}
+
+^[Query1210]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/bronzeMedalist> ?y .
+}
+
+^[Query1211]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/routeEndLocation> ?y .
+}
+
+^[Query1212]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/originalStartPoint> ?y .
+}
+
+^[Query1213]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/ethnicity> ?y .
+}
+
+^[Query1214]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/cinematography> ?y .
+}
+
+^[Query1215]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/tradeMark> ?y .
+}
+
+^[Query1216]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/makeupArtist> ?y .
+}
+
+^[Query1217]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/region> ?y .
+}
+
+^[Query1218]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/militaryRank> ?y .
+}
+
+^[Query1219]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/recordedIn> ?y .
+}
+
+^[Query1220]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/network> ?y .
+}
+
+^[Query1221]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/fastestDriverTeam> ?y .
+}
+
+^[Query1222]
+SELECT ?x ?y
+WHERE {
+?x <http://www.owl-ontologies.com/travel.owl#hasPart> ?y .
+}
+
+^[Query1223]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/education> ?y .
+}
+
+^[Query1224]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/languageCode> ?y .
+}
+
+^[Query1225]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/lowestMountain> ?y .
+}
+
+^[Query1226]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtMajors> ?y .
+}
+
+^[Query1227]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/nationalFilmAward> ?y .
+}
+
+^[Query1228]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/translator> ?y .
+}
+
+^[Query1229]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/languageFamily> ?y .
+}
+
+^[Query1230]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/chairperson> ?y .
+}
+
+^[Query1231]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/drainsFrom> ?y .
+}
+
+^[Query1232]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/homeArena> ?y .
+}
+
+^[Query1233]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/associatedAct> ?y .
+}
+
+^[Query1234]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/majorShrine> ?y .
+}
+
+^[Query1235]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/wikiPageInterLanguageLink> ?y .
+}
+
+^[Query1236]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/sisterStation> ?y .
+}
+
+^[Query1237]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/parent> ?y .
+}
+
+^[Query1238]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/boiler> ?y .
+}
+
+^[Query1239]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/bandMember> ?y .
+}
+
+^[Query1240]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/winsAtOtherTournaments> ?y .
+}
+
+^[Query1241]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/author> ?y .
+}
+
+^[Query1242]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/giniCoefficientCategory> ?y .
+}
+
+^[Query1243]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/emmyAward> ?y .
+}
+
+^[Query1244]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/constructionMaterial> ?y .
+}
+
+^[Query1245]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/compiler> ?y .
+}
+
+^[Query1246]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/managingEditor> ?y .
+}
+
+^[Query1247]
+SELECT ?x ?y
+WHERE {
+?x <http://dbpedia.org/ontology/federalState> ?y .
+}
+
+

@@ -1,0 +1,257 @@
+# queries expressed in SPARQL
+# [query ID]
+# query
+
+^[query1]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x rdf:type ub:GraduateStudent .
+ ?x ub:takesCourse <http://www.Department0.University0.edu/GraduateCourse0>
+}
+
+^[query2]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?y
+WHERE {
+ ?y rdf:type ub:University .
+ ?z ub:subOrganizationOf ?y .
+ ?z rdf:type ub:Department .
+ ?x ub:undergraduateDegreeFrom ?y .
+ ?x rdf:type ub:GraduateStudent .
+ ?x ub:memberOf ?z
+}
+
+^[query3]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:publicationAuthor <http://www.Department0.University0.edu/AssistantProfessor0> .
+ ?x rdf:type ub:Publication
+}
+
+^[query4]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?y1 ?y2 ?y3
+WHERE {
+ ?x ub:worksFor <http://www.Department0.University0.edu> .
+ ?x rdf:type ub:Professor .
+ ?x ub:name ?y1 .
+ ?x ub:emailAddress ?y2 .
+ ?x ub:telephone ?y3
+}
+
+^[query5]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf <http://www.Department0.University0.edu> .
+ ?x rdf:type ub:Person
+}
+
+^[query6]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x rdf:type ub:Student
+}
+
+^[query7]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?y
+WHERE {
+ <http://www.Department0.University0.edu/AssociateProfessor0> ub:teacherOf ?y .
+ ?y rdf:type ub:Course .
+ ?x ub:takesCourse ?y .
+ ?x rdf:type ub:Student
+}
+
+^[query8]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?z
+WHERE {
+ ?x ub:memberOf ?y .
+ ?y ub:subOrganizationOf <http://www.University0.edu> .
+ ?y rdf:type ub:Department .
+ ?x ub:emailAddress ?z .
+ ?x rdf:type ub:Student
+}
+
+^[query9]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?y ?z
+WHERE {
+ ?z rdf:type ub:Course .
+ ?y ub:teacherOf ?z .
+ ?x ub:advisor ?y .
+ ?y rdf:type ub:Faculty .
+ ?x ub:takesCourse ?z .
+ ?x rdf:type ub:Student
+}
+
+^[query10]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:takesCourse <http://www.Department0.University0.edu/GraduateCourse0> .
+ ?x rdf:type ub:Student
+}
+
+^[query11]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:subOrganizationOf <http://www.University0.edu> .
+ ?x rdf:type ub:ResearchGroup
+}
+
+^[query12]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x ?y
+WHERE {
+ ?x ub:worksFor ?y .
+ ?y ub:subOrganizationOf <http://www.University0.edu> .
+ ?y rdf:type ub:Department .
+ ?x rdf:type ub:Chair
+}
+
+^[query13]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ <http://www.University0.edu> ub:hasAlumnus ?x .
+ ?x rdf:type ub:Person
+}
+
+^[query14]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x rdf:type ub:UndergraduateStudent
+}
+
+^[query1]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf ?y .
+ ?y rdf:type ub:ResearchGroup . 
+ ?x ub:memberOf <http://www.Department0.University0.edu> 
+}
+
+^[query2]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf ?z .
+ ?z rdf:type ub:ResearchGroup . 
+ ?x ub:takesCourse ?y .  
+ <http://www.Department0.University0.edu/FullProfessor0> ub:teacherOf ?y 
+}
+
+^[query3]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf ?w .
+ ?w rdf:type ub:ResearchGroup . 
+ ?x ub:memberOf <http://www.Department0.University0.edu> . 
+ ?x ub:takesCourse ?y .  
+ ?z ub:teacherOf ?y .
+ ?z rdf:type ub:FullProfessor 
+}
+
+^[query4]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf ?y .
+ ?y rdf:type ub:ResearchGroup . 
+ <http://www.University14.edu> ub:hasAlumnus ?x
+}
+
+^[query5]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:publicationAuthor ?z . 
+ ?x ub:publicationAuthor <http://www.Department0.University0.edu/FullProfessor0> . 
+ ?z ub:memberOf ?y .
+ ?y rdf:type ub:ResearchGroup 
+}
+
+^[query6]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf <http://www.Department0.University0.edu> . 
+ ?x rdf:type ub:TeachingAssistant . 
+ ?x ub:takesCourse ?y . 
+ ?z ub:takesCourse ?y .
+ ?w ub:member ?z .
+ ?w rdf:type ub:ResearchGroup
+}
+
+^[query7]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:memberOf ?y .
+ ?y rdf:type ub:ResearchGroup . 
+ ?x ub:advisor ?z . 
+ ?z rdf:type ub:FullProfessor .
+ <http://www.Department0.University0.edu> ub:member ?z
+}
+
+^[query8]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?y ub:member ?x .
+ ?y rdf:type ub:ResearchGroup . 
+ ?x ub:advisor ?z . 
+ ?z rdf:type ub:AssociateProfessor . 
+ <http://www.Department0.University0.edu> ub:member ?z
+}
+
+^[query9]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x ub:worksFor ?y .
+ ?x ub:advisor ?z . 
+ ?z rdf:type ub:AssistantProfessor . 
+ <http://www.Department0.University0.edu> ub:member ?z
+}
+
+^[Query10]
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+SELECT ?x
+WHERE {
+ ?x rdf:type ub:Employee . 
+ ?x ub:memberOf <http://www.Department0.University0.edu> 
+}
